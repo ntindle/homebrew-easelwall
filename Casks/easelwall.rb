@@ -1,8 +1,8 @@
 # Install: brew install ntindle/easelwall/easelwall
 
 cask "easelwall" do
-  version "1.0.0"
-  sha256 "dbcecfbdedf330c25cdd00378e679ed4cf9e1f096cab31e2443012443e466a5b"
+  version "1.0.1"
+  sha256 "ccbd36f21972d92a93107109ea631f8677dafba22e8a8f8c8dd67d4169b77644"
 
   url "https://github.com/ntindle/EaselWall/releases/download/v#{version}/EaselWall-#{version}.dmg"
   name "EaselWall"
